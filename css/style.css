@@ -57,6 +57,7 @@ html >::-webkit-scrollbar-thumb:hover {
   background: #ff5722;
 }
 body {
+  cursor: url("https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@2.1.6/images/mouse.cur"), auto;
   background-color: #f4f4f4;
   text-rendering: optimizelegibility;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
